@@ -1,0 +1,19 @@
+{
+  "name": "coin-counter",
+  "version": "1.0.0",
+  "description": "determine which coins to use for change",
+  "license": "MIT",
+  "author": "Samantha Callie",
+  "scripts": {
+    "test": "jest",
+    "node": "node ./src/script.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@types/jest": "^29.5.13",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "node": "^22.9.0"
+  }
+}
