@@ -5,8 +5,7 @@
   "license": "MIT",
   "author": "Samantha Callie",
   "scripts": {
-    "test": "jest",
-    "node": "node ./src/script.js"
+    "test": "jest"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
